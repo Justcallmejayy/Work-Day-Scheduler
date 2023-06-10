@@ -7,7 +7,7 @@ Keep track of your day today with a simple work day scheduler. The scheduler wil
 
 ## Installation
 
-Launch the website at https://justcallmejayy.github.io/Work-Day-Scheduler/
+Launch the website at [https://justcallmejayy.github.io/Work-Day-Scheduler/](https://justcallmejayy.github.io/Work-Day-Scheduler/)
 
 ## Usage
 
